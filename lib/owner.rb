@@ -72,8 +72,6 @@ class Owner
   
 end
 
-@owner = Owner.new("somet")
-@obnwer.
 # an owner will know about all their pets 
 # an owner will be able to buy a pet 
 # an owner will change a pet's mood through walking/feeding
